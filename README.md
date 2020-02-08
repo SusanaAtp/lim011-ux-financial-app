@@ -1,4 +1,84 @@
-# Aplicación financiera
+# Aplicación Financiera Banqui 💰
+
+## 1. **Objetivos iniciales** 📣
+
+Iniciemos hablando de qué es una Fintech...
+Una fintech, o en español una tecnología financiera, es cuando en la industria financiera se incluyen procesos tecnológicos e invovadores para automatizar servicios bancarios.
+
+### **¿Cómo nos ayuda?**
+Cada día la innovación digital y tecnologica nos ayuda a ahorrar procesos, y qué mejor que ahorrar tiempo en procesos financieros, podríamos tener todo en la palma de la mano y de una manera segura.
+
+En esta oportunidad **Banco Pichincha**, quién actualmente tiene un gran sector del grupo emprendedor peruano, respalda **Banqui**, la nueva fintech que ingresa al mercado para ayudar a nuestros emprendedores peruanos con sus procesos financieros de manera segura, eficaz y sencilla. Sin embargo, en esta ocasión nos proponemos resolver y diseñar esta aplicación con objetivos obtenidos mediante nuestra investigación.
+
+#### Nuestros principales objetivos de cambio, son:
+* **Replantear el User Persona**
+Banqui desea dirigirse a una población joven y digitalmente nativa.
+* **Rediseñar la aplicación** 
+Contribuir con los usuarios, ayudandolos con sus procesos acompañado de textos indicativos, sin saturarlos de información.
+* **Mejorar el flujo de navegación** 
+Realizarlas de manera rápida, sencilla y eficaz.
+
+## 2. Problemas encontrados en el primer diseño de Banqui 🔍
+Banqui inició prematuramente, con un diseño básico pero con la intención de cumplir los objetivos de satisfacer las necesidades de sus usuarios. Afortunadamente, llegamos para apoyar en su proceso de transformación. 
+
+Este es el primer prototipo navegable de Banqui. Donde podemos apreciar algunos detalles visuales y de interación como desalineación en el contenido, una navegación poco entendible para el usuario y poca información para una aplicación nueva.
+
+[Prototipo] (https://marvelapp.com/1hj56576/screen/60926857)
+
+![web](images/inicio.png)
+![web](images/principal.png)
+![web](images/pagos-2.png)
+![web](images/pagos.png)
+![web](images/ahorros.png)
+![web](images/gastos.png)
+
+## 3. Problemas encontrados en el testeo de Usuarios 🔍
+Realizamos 30 testeos en total. 5 físicas y 30 vía online. Ambas parte de la prueba, mostraron dificultades en la sección de ahorros y gastos. Principalmente en la de ahorros, no comprendían estas secciones ya que son las propuestas innovadoras que Banqui tiene para sus usuarios, también observamos que los usuarios necesitaban automatizar procesos.
+
+### Proceso de investigación
+Realizamos entrevistas a usuarios quienes actualmente tienen una app financiera, un trabajo estable y desean empezar a mejorar sus finanzas personales. En base a toda nuestra sintesís, creamos a Adriana Palomino, nuestra User Persona. La cual complementamos con un Costumer Journey Map.
+
+![web](images/userpersona.png)
+![web](images/CJM.png)
+
+
+## 4. Nuevos Objetivos 📌
+
+Nuestros principales objetivos con Banqui en base a la sintesis de investigación, son:
+* **Seguridad** brindar métodos seguros en cada proceso.
+* **Control** contribuir con las metas de los usuarios, ayudandolos con sus pagos y ahorros.
+* **Transacciones** realizarlas de manera rápida, sencilla y eficaz.
+
+Este es la nueva propuesta testeada para [Banqui] (https://marvelapp.com/84a6i0j/screen/65863885)
+
+![web](images/nuevo-inicio.png)
+![web](images/prepantalla.png)
+![web](images/pantalla.png)
+![web](images/nuevo-gastos.png)
+![web](images/nuevo-ahorros.png)
+![web](images/nuevo-pagos.png)
+![web](images/detalle.png)
+![web](images/token.png)
+![web](images/perfil.png)
+
+
+Nos enfocamos en el público con los teléfonos más seguros, quienes prefieren los nuevos métodos de ingreso por lo personal e instranferibles que son. Agregamos el método más eficaz de pago como lo es por token digital. Y automatizamos los procesos de la aplicación para mejor entendimiento del usuario. Los cambios resultaron satifactorios para los usuarios.
+
+## 5. Next Steps 📋
+1. Agregar una opción de cancelación de ahorro
+2. Agregar gráficas de apoyo en la sección de gastos
+3. Agregar un nuevo logo a Banqui
+4. Agregar la opción de obtener nuevas cuentas en Banqui.
+
+## 6. Links 💿
+[Drive] (https://drive.google.com/drive/folders/1FPnBcaHZ6Un65szc2EQ4mKYjoXE-pkZ2?usp=sharing)
+[Loom]
+
+¡Gracias por tomarte el tiempo de leer esta tranformación! 🙋
+
+
+
+<!-- # Aplicación financiera
 
 ## Preámbulo
 
@@ -164,4 +244,4 @@ ya que para el testing tendrás que usar una herramienta llamada
 [Maze](https://maze.design/) que funciona mejor con estas.
 
 Recuerda que el diseño que trabajes debe seguir los fundamentos de diseño visual
-como: contraste, alineación, jerarquía, entre otros.
+como: contraste, alineación, jerarquía, entre otros. -->
